@@ -1,0 +1,13 @@
+body {
+    margin: 7px 7px;
+    padding: 0px 7px;
+    background:url('https://catherineasquithgallery.com/uploads/posts/2021-02/1614343977_53-p-zadnii-fon-svetlii-61.jpg') no-repeat center;
+    background-size: cover;
+}
+
+div {
+    margin: 1px;
+    padding: 1px;
+    border: 1px black;
+    border-radius: 15px;
+}
